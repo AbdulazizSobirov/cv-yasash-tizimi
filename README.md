@@ -58,5 +58,5 @@ npm run preview
 ---
 
 ## 📝 Muallif va Aloqa
-
-* **Aziz Sobirov** — [GitHub Profil](https://github.com/AbdulazizSobirov)
+** Telegram  ** - https://t.me/silence_offf
+* **Abdulaziz Sobirov** — [GitHub Profil] (https://github.com/AbdulazizSobirov)
