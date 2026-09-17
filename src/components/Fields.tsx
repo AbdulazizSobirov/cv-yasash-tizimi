@@ -1,0 +1,3 @@
+import React from 'react';
+export const Field=({label,error,...props}:{label:string,error?:string}&React.InputHTMLAttributes<HTMLInputElement>)=><label className="block text-sm font-semibold text-slate-700">{label}<input {...props} className={`field mt-1 ${error?'border-red-400':''}`}/>{error&&<span className="text-xs text-red-600 font-normal">{error}</span>}</label>;
+export const TextArea=({label,...props}:{label:string}&React.TextareaHTMLAttributes<HTMLTextAreaElement>)=><label className="block text-sm font-semibold text-slate-700">{label}<textarea {...props} className="field mt-1 min-h-28 resize-y"/></label>;

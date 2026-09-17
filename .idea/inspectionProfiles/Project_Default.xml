@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="instagrapi" />
+          <option value="sqlite3" />
+          <option value="aiogram" />
+          <option value="python-dotenv" />
+          <option value="aiosqlite" />
+          <option value="sqlalchemy" />
+          <option value="alembic" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="jinja2" />
+          <option value="python-multipart" />
+          <option value="itsdangerous" />
+          <option value="bcrypt" />
+          <option value="pyjwt" />
+          <option value="pydantic-settings" />
+          <option value="phonenumbers" />
+          <option value="pillow" />
+          <option value="apscheduler" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
